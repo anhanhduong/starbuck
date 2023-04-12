@@ -1,0 +1,108 @@
+gender,age,productRate,priceRate,promoRate,ambianceRate,wifiRate,serviceRate,chooseRate
+male,40 and above,4,3,4,4,3,3,5
+male,40 and above,4,5,3,3,3,4,5
+male,40 and above,4,4,4,4,2,3,4
+female,40 and above,5,4,3,5,3,5,5
+male,40 and above,4,3,5,4,4,4,4
+male,40 and above,2,2,1,2,2,3,2
+male,40 and above,3,3,5,3,2,4,4
+male,below 20,5,2,3,4,4,3,5
+male,below 20,3,3,3,3,3,3,3
+female,below 20,3,3,2,2,2,4,3
+female,below 20,3,3,2,3,3,3,3
+male,below 20,5,5,5,5,5,5,5
+male,below 20,3,3,3,3,4,3,3
+female,below 20,2,2,3,2,2,2,2
+male,below 20,4,4,4,4,4,4,4
+female,below 20,3,4,5,5,5,4,4
+male,below 20,5,5,5,5,5,5,5
+female,from 20 to 29,4,3,5,5,4,4,3
+female,from 20 to 29,4,3,4,4,4,5,2
+male,from 20 to 29,4,3,4,4,4,4,3
+female,from 20 to 29,2,1,4,3,3,3,3
+male,from 20 to 29,3,3,4,2,2,3,3
+female,from 20 to 29,4,3,5,5,4,5,4
+female,from 20 to 29,5,5,5,5,3,5,5
+male,from 20 to 29,4,2,3,3,3,3,3
+female,from 20 to 29,5,4,4,4,4,4,4
+male,from 20 to 29,4,3,3,4,3,3,4
+female,from 20 to 29,4,1,4,5,3,3,4
+female,from 20 to 29,3,2,4,4,3,4,4
+female,from 20 to 29,4,3,2,4,4,3,4
+female,from 20 to 29,4,3,4,4,4,4,3
+female,from 20 to 29,5,2,5,5,5,5,2
+female,from 20 to 29,4,1,5,4,3,4,4
+male,from 20 to 29,4,4,4,4,4,4,4
+male,from 20 to 29,4,3,4,5,5,5,5
+female,from 20 to 29,3,4,3,4,3,4,2
+female,from 20 to 29,5,3,4,3,3,4,5
+male,from 20 to 29,5,2,5,5,2,4,3
+female,from 20 to 29,5,4,4,5,4,4,3
+male,from 20 to 29,5,3,4,4,3,4,3
+female,from 20 to 29,5,5,5,5,3,5,5
+female,from 20 to 29,3,1,4,4,3,4,4
+female,from 20 to 29,4,3,3,3,2,3,4
+female,from 20 to 29,3,2,3,3,3,4,3
+female,from 20 to 29,3,4,4,3,4,4,3
+female,from 20 to 29,4,2,4,4,3,4,1
+female,from 20 to 29,3,3,4,4,5,5,2
+male,from 20 to 29,4,4,4,4,4,4,4
+male,from 20 to 29,5,4,5,5,3,5,5
+female,from 20 to 29,5,4,5,5,1,4,4
+female,from 20 to 29,4,4,5,4,4,5,5
+female,from 20 to 29,3,4,5,4,3,4,2
+female,from 20 to 29,4,3,5,4,4,5,5
+female,from 20 to 29,4,3,4,3,2,3,4
+female,from 20 to 29,5,4,3,4,3,3,3
+female,from 20 to 29,4,3,4,4,3,4,3
+male,from 20 to 29,2,1,5,1,4,3,3
+female,from 20 to 29,5,4,3,4,3,3,3
+male,from 20 to 29,4,2,3,5,4,4,5
+female,from 20 to 29,4,3,2,4,3,4,4
+female,from 20 to 29,4,3,4,5,4,4,4
+female,from 20 to 29,3,3,5,4,3,3,4
+female,from 20 to 29,4,3,4,5,5,5,3
+male,from 20 to 29,5,1,3,3,2,3,3
+female,from 20 to 29,4,2,4,4,3,4,3
+female,from 20 to 29,3,2,3,3,3,5,4
+male,from 20 to 29,3,3,4,5,4,4,4
+male,from 20 to 29,4,2,5,3,2,4,4
+male,from 20 to 29,4,2,1,4,1,4,4
+female,from 20 to 29,2,1,5,2,2,2,2
+female,from 20 to 29,3,2,4,3,1,3,3
+male,from 20 to 29,5,5,5,5,5,5,5
+male,from 20 to 29,4,2,4,3,4,4,4
+male,from 20 to 29,4,3,2,3,1,2,2
+female,from 20 to 29,3,3,3,4,3,3,3
+female,from 20 to 29,4,4,4,4,4,4,4
+female,from 20 to 29,5,3,5,5,4,4,1
+male,from 20 to 29,3,1,3,3,1,3,2
+female,from 20 to 29,3,3,5,4,3,3,4
+female,from 20 to 29,3,3,1,4,3,4,4
+female,from 20 to 29,4,3,4,3,3,4,4
+male,from 20 to 29,3,2,3,3,3,3,3
+male,from 20 to 29,3,4,3,3,1,2,3
+male,from 20 to 29,4,2,4,4,3,3,3
+male,from 20 to 29,3,3,3,3,3,3,3
+male,from 20 to 29,3,3,3,3,3,3,2
+female,from 20 to 29,5,4,4,4,4,4,4
+male,from 20 to 29,5,5,5,5,5,5,5
+male,from 20 to 29,3,2,4,3,3,3,4
+female,from 20 to 29,4,4,4,4,4,4,4
+male,from 20 to 29,1,1,5,4,3,3,2
+male,from 30 to 39,4,3,3,4,3,3,3
+male,from 30 to 39,2,2,5,3,3,4,3
+male,from 30 to 39,4,3,1,4,4,5,4
+male,from 30 to 39,4,2,4,4,4,4,2
+female,from 30 to 39,2,3,5,5,3,5,5
+male,from 30 to 39,3,2,5,3,3,5,3
+female,from 30 to 39,5,3,4,3,4,4,4
+male,from 30 to 39,3,3,4,3,3,3,3
+male,from 30 to 39,3,2,4,4,4,5,4
+male,from 30 to 39,4,4,2,4,3,4,5
+male,from 30 to 39,4,3,4,4,3,4,4
+female,from 30 to 39,4,4,5,4,4,5,4
+female,from 30 to 39,4,3,4,5,5,4,5
+male,from 30 to 39,4,2,3,4,4,4,4
+male,from 30 to 39,4,5,5,4,4,3,3
+male,from 30 to 39,4,4,5,4,2,3,4
